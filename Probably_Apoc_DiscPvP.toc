@@ -1,0 +1,6 @@
+## Interface: 50400
+## Title: Probably - Apoc_DiscPvP
+## Notes: ProbablyEngine Custom Discipline Priest
+## Dependencies: Probably
+
+rotation.lua
